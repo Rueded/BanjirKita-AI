@@ -2,7 +2,7 @@
 
 **Community Edge Flood Intelligence Network**
 
-Privacy-preserving, offline-first flood risk detection for Malaysia's monsoon-prone communities, built for the Malaysia AI Impact Festival 2026 (AI Changemakers, 18+ category) — in conjunction with the Intel® AI Global Impact Festival.
+Privacy-preserving, offline-first flood risk detection for Malaysia's monsoon-prone communities, built for the Malaysia AI Impact Festival 2026 — in conjunction with the Intel® AI Global Impact Festival.
 
 [English](#english) · [中文](#中文)
 
