@@ -78,22 +78,30 @@ Below are real examples of the model training process and live inference outputs
 
 **Training Metrics & Performance:**
 <div align="center">
-  <img src="https://github.com/Rueded/BanjirKita-AI/blob/main/screenshots/Screenshot%20(11).png?raw=true" alt="Model training metrics showing accuracy and loss curves" width="500">
+  <a href="https://raw.githubusercontent.com/Rueded/BanjirKita-AI/main/screenshots/Screenshot%20(11).png">
+    <img src="https://github.com/Rueded/BanjirKita-AI/blob/main/screenshots/Screenshot%20(11).png?raw=true" alt="Model training metrics showing accuracy and loss curves" width="500">
+  </a>
 </div>
 
 **Model Optimization via Intel OpenVINO:**
 <div align="center">
-  <img src="https://github.com/Rueded/BanjirKita-AI/blob/main/screenshots/Screenshot%20(21).png?raw=true" alt="OpenVINO model optimization and quantization process" width="500">
+  <a href="https://raw.githubusercontent.com/Rueded/BanjirKita-AI/main/screenshots/Screenshot%20(21).png">
+    <img src="https://github.com/Rueded/BanjirKita-AI/blob/main/screenshots/Screenshot%20(21).png?raw=true" alt="OpenVINO model optimization and quantization process" width="500">
+  </a>
 </div>
 
 **Live Inference Output - Flood Detection:**
 <div align="center">
-  <img src="https://github.com/Rueded/BanjirKita-AI/blob/main/screenshots/Screenshot%20(22).png?raw=true" alt="Real-time flood detection inference results" width="500">
+  <a href="https://raw.githubusercontent.com/Rueded/BanjirKita-AI/main/screenshots/Screenshot%20(22).png">
+    <img src="https://github.com/Rueded/BanjirKita-AI/blob/main/screenshots/Screenshot%20(22).png?raw=true" alt="Real-time flood detection inference results" width="500">
+  </a>
 </div>
 
 **Risk Classification Dashboard:**
 <div align="center">
-  <img src="https://github.com/Rueded/BanjirKita-AI/blob/main/screenshots/Screenshot%20(26).png?raw=true" alt="Flood risk classification dashboard showing LOW/MEDIUM/HIGH risk levels" width="500">
+  <a href="https://raw.githubusercontent.com/Rueded/BanjirKita-AI/main/screenshots/Screenshot%20(26).png">
+    <img src="https://github.com/Rueded/BanjirKita-AI/blob/main/screenshots/Screenshot%20(26).png?raw=true" alt="Flood risk classification dashboard showing LOW/MEDIUM/HIGH risk levels" width="500">
+  </a>
 </div>
 
 ### Responsible AI
@@ -192,22 +200,30 @@ python banjirkita_infer_ex.py
 
 **训练指标与性能曲线：**
 <div align="center">
-  <img src="https://github.com/Rueded/BanjirKita-AI/blob/main/screenshots/Screenshot%20(11).png?raw=true" alt="模型训练指标展示准确度和损失曲线" width="500">
+  <a href="https://raw.githubusercontent.com/Rueded/BanjirKita-AI/main/screenshots/Screenshot%20(11).png">
+    <img src="https://github.com/Rueded/BanjirKita-AI/blob/main/screenshots/Screenshot%20(11).png?raw=true" alt="模型训练指标展示准确度和损失曲线" width="500">
+  </a>
 </div>
 
 **Intel OpenVINO 模型优化：**
 <div align="center">
-  <img src="https://github.com/Rueded/BanjirKita-AI/blob/main/screenshots/Screenshot%20(21).png?raw=true" alt="OpenVINO 模型优化和量化过程" width="500">
+  <a href="https://raw.githubusercontent.com/Rueded/BanjirKita-AI/main/screenshots/Screenshot%20(21).png">
+    <img src="https://github.com/Rueded/BanjirKita-AI/blob/main/screenshots/Screenshot%20(21).png?raw=true" alt="OpenVINO 模型优化和量化过程" width="500">
+  </a>
 </div>
 
 **实时推理输出 - 洪水检测：**
 <div align="center">
-  <img src="https://github.com/Rueded/BanjirKita-AI/blob/main/screenshots/Screenshot%20(22).png?raw=true" alt="实时洪水检测推理结果" width="500">
+  <a href="https://raw.githubusercontent.com/Rueded/BanjirKita-AI/main/screenshots/Screenshot%20(22).png">
+    <img src="https://github.com/Rueded/BanjirKita-AI/blob/main/screenshots/Screenshot%20(22).png?raw=true" alt="实时洪水检测推理结果" width="500">
+  </a>
 </div>
 
 **风险分类仪表板：**
 <div align="center">
-  <img src="https://github.com/Rueded/BanjirKita-AI/blob/main/screenshots/Screenshot%20(26).png?raw=true" alt="洪水风险分类仪表板展示低/中/高风险等级" width="500">
+  <a href="https://raw.githubusercontent.com/Rueded/BanjirKita-AI/main/screenshots/Screenshot%20(26).png">
+    <img src="https://github.com/Rueded/BanjirKita-AI/blob/main/screenshots/Screenshot%20(26).png?raw=true" alt="洪水风险分类仪表板展示低/中/高风险等级" width="500">
+  </a>
 </div>
 
 ### 负责任 AI
