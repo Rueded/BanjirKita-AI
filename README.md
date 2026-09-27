@@ -4,8 +4,6 @@
 
 Privacy-preserving, offline-first flood risk detection for Malaysia's monsoon-prone communities, built for the Malaysia AI Impact Festival 2026 (AI Changemakers, 18+ category) — in conjunction with the Intel® AI Global Impact Festival.
 
-*为马来西亚季风洪灾社区打造的隐私优先、支持离线运行的洪水风险检测系统。提交作品参加 Malaysia AI Impact Festival 2026（AI Changemakers，18岁以上组别）——与 Intel® AI Global Impact Festival 联合举办。*
-
 [English](#english) · [中文](#中文)
 
 ---
@@ -96,7 +94,7 @@ This project's architecture, code (OpenVINO pipeline, NNCF integration, PyTorch 
 
 ### License
 
-MIT — see `LICENSE`. (Swap this out if you'd prefer a different license.)
+MIT — see `LICENSE`. 
 
 ---
 
@@ -186,4 +184,4 @@ python banjirkita_infer_ex.py
 
 ### 许可证
 
-MIT——见 `LICENSE` 文件。（如果你想用别的许可证，可以自行替换。）
+MIT——见 `LICENSE` 文件。
