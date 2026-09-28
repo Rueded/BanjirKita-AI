@@ -1,16 +1,5 @@
 # BanjirKita AI — File Manifest
 
-## Submission materials (what you actually paste into the Google Form)
-
-| File | Use for |
-|---|---|
-| `BanjirKita_Form_Answers.md` | All Google Form field answers — copy-paste ready, includes final honest dataset audit numbers |
-| `BanjirKita_Video_Script.md` | 120-second video script, timed by section, with camera/screen-recording notes |
-
-**Read `BanjirKita_Form_Answers.md` in full before submitting** — it has a "Final checklist" section at the bottom with the one thing still outstanding (a fresh terminal recording with the current model, for the video).
-
----
-
 ## Active code — this is what actually produced your real results
 
 | File | Role |
